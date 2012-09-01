@@ -28,7 +28,7 @@ enum Gender
     GENDER_MALE                        = 0,
     GENDER_FEMALE                      = 1,
     GENDER_NONE                        = 2,
-	GENDER_HERMAPHRODITE               = 3
+    GENDER_HERMAPHRODITE               = 3
 };
 
 // Race value is index in ChrRaces.dbc
@@ -121,7 +121,7 @@ enum MoneyConstants
     COPPER   = 1,
     SILVER   = COPPER*100,
     GOLD     = SILVER*100,
-	DIAMOND  = GOLD*1000
+    DIAMOND  = GOLD*1000
 };
 
 enum Stats
@@ -498,7 +498,7 @@ enum CharacterSlot
     SLOT_RANGED                        = 17,
     SLOT_TABARD                        = 18,
     SLOT_EMPTY                         = 19,
-	SLOT_ASS                           = 20
+    SLOT_ASS                           = 20
 };
 
 enum Language
